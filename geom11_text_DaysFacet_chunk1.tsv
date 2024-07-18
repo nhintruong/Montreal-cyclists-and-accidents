@@ -1,0 +1,331 @@
+colour	x	y	label	key	clickSelects	showSelected1	PANEL	group
+#8DD3C7	11	818	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	18	826	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	17	1371	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	27	4551	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	21	6228	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	17	6820	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	9	7126	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	3	6404	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	9	6075	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	6	4352	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	9	3040	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	2	1877	Berri	Berri	Berri	Berri	2	1
+#FFFFB3	9	8075	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	2	2
+#FFFFB3	3	7683	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	2	2
+#FFFFB3	2	7548	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	2	2
+#FFFFB3	6	2705	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	2	2
+#FFFFB3	9	1815	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	2	2
+#80B1D3	16	3999	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	5	3564	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	3	3602	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	10	3421	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	21	1978	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	10	1770	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	2	1211	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#FDB462	17	6547	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	9	6251	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	25	6198	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	10	7087	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	6	5110	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	10	3930	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	2	2367	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#D9D9D9	12	1337	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	28	1798	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	18	3021	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	30	3037	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	12	3308	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	17	3260	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	9	3646	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	3	3420	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	9	3465	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	2	3182	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	26	2636	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	9	2491	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#8DD3C7	27	876	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	16	916	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	16	2336	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	30	4643	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	25	6930	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	15	7995	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	20	7203	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	24	7078	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	10	5897	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	5	5233	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	3	3394	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	2	1572	Berri	Berri	Berri	Berri	2	1
+#FFFFB3	14	4121	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	4	9735	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	20	7194	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	24	7310	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	1	6637	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	5	5235	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#FFFFB3	3	3177	Br閎euf	Br閎euf	Br閎euf	Br閎euf	2	2
+#BEBADA	13	2421	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	2	3
+#BEBADA	3	1905	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	2	3
+#BEBADA	3	1023	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	2	3
+#80B1D3	22	702	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	18	739	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	19	1688	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	30	3106	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	27	4486	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	15	5577	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	5	4972	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	11	4290	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	13	3130	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	3	2304	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	3	1193	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#FDB462	27	1033	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	18	1081	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	17	2907	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	30	5298	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	28	7447	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	2	7704	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	15	7648	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	31	7228	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	15	7072	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	5	6459	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	3	4261	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	2	1985	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FB8072	13	3661	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	3	2791	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	2	1494	du Parc	du Parc	du Parc	du Parc	2	4
+#B3DE69	11	1570	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	13	881	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	3	594	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#FCCDE5	5	4221	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	11	2880	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	2	1635	Rachel	Rachel	Rachel	Rachel	2	8
+#D9D9D9	5	1336	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	18	1360	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	19	1898	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	27	4356	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	27	3622	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	18	3783	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	5	3603	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	11	3545	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	10	3738	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	5	3148	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#D9D9D9	3	2455	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	2	9
+#8DD3C7	11	848	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	24	868	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	30	1534	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	12	3382	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	31	7357	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	17	7899	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	4	7556	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	17	6593	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	9	7078	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	1	1556	Berri	Berri	Berri	Berri	2	1
+#BEBADA	4	534	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	18	614	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	31	1082	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	30	1800	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	31	3214	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	7	3390	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	7	3127	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	31	3403	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	8	3640	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	5	1453	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#80B1D3	12	699	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	24	707	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	31	1257	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	29	2512	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	31	5420	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	17	5855	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	4	5441	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	17	4664	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	9	5068	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	11	3876	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	2	2971	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#FDB462	13	989	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	18	1018	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	31	2167	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	29	4240	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	31	8697	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	7	8832	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	5	8470	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	31	8048	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	8	8683	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	5	6530	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	2	5158	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FB8072	13	766	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	18	729	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	31	1521	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	12	2448	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	31	4611	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	16	4837	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	19	4463	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	31	4557	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	27	5077	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	11	4207	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	2	3443	du Parc	du Parc	du Parc	du Parc	2	4
+#B3DE69	2	506	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	1	503	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	17	520	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	30	2681	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	31	3473	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	19	4362	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	2	4544	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	13	3923	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	11	3460	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	10	3172	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	2	1071	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#FCCDE5	13	769	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	24	795	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	30	1616	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	30	4442	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	25	5764	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	3	8015	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	4	6538	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	31	6436	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	9	6362	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	1	2100	Rachel	Rachel	Rachel	Rachel	2	8
+#8DD3C7	10	897	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	21	941	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	21	3329	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	19	4731	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	24	6985	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	15	7577	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	3	7212	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	22	7029	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	13	7020	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	2	5639	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	1	2905	Berri	Berri	Berri	Berri	2	1
+#BEBADA	23	506	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	22	510	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	21	2058	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	19	2510	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	30	3222	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	14	3478	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	3	3134	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	29	3592	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	12	3624	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	2	3025	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	1	1708	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#80B1D3	10	738	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	23	793	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	21	2393	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	19	3735	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	30	5306	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	15	5499	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	5	5330	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	22	5013	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	13	4869	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	2	3781	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	5	2205	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#FDB462	10	1063	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	16	1069	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	21	4010	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	19	5811	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	30	8132	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	7	8722	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	5	8264	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	22	7565	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	13	8014	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	2	6345	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	5	3721	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FB8072	10	775	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	23	829	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	21	2725	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	19	3377	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	14	4368	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	14	4723	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	3	4396	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	22	4274	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	12	5010	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	2	4232	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	5	2643	du Parc	du Parc	du Parc	du Parc	2	4
+#B3DE69	10	518	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	18	530	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	18	1628	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	15	2346	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	20	4741	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	24	4134	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	8	4886	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	3	3695	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	3	4283	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	26	1956	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	4	697	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#FCCDE5	10	741	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	23	513	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	21	3346	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	19	4429	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	14	6275	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	1	7095	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	10	6452	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	21	6140	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	7	6604	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	26	5078	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	1	2961	Rachel	Rachel	Rachel	Rachel	2	8
+#8DD3C7	15	1081	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	14	940	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	28	1588	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	30	5171	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	28	7303	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	19	7108	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	3	7179	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	20	6627	Berri	Berri	Berri	Berri	2	1
+#8DD3C7	5	6821	Berri	Berri	Berri	Berri	2	1
+#BEBADA	16	578	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	1	524	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	28	1090	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	30	2762	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	7	3768	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	19	3634	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	9	3342	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	27	3305	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#BEBADA	18	3830	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	2	3
+#80B1D3	15	865	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	14	790	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	28	1207	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	30	3663	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	31	5216	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	20	4952	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	3	4866	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	29	4402	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#80B1D3	5	4734	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	2	5
+#FDB462	16	1278	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	14	1067	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	28	2012	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	30	5812	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	28	8184	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	13	8066	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	3	7986	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	6	7624	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FDB462	3	7627	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	2	6
+#FB8072	16	910	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	26	762	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	28	1406	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	30	3582	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	8	4603	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	13	4578	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	3	4298	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	21	3985	du Parc	du Parc	du Parc	du Parc	2	4
+#FB8072	18	4574	du Parc	du Parc	du Parc	du Parc	2	4
+#B3DE69	20	506	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	14	519	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	30	949	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	28	3718	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	5	3886	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	30	4786	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	21	5341	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	11	4189	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#B3DE69	1	4396	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	2	7
+#FCCDE5	15	1158	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	26	1022	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	31	3230	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	30	5428	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	31	9055	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	19	7161	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	12	7385	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	6	6934	Rachel	Rachel	Rachel	Rachel	2	8
+#FCCDE5	5	6323	Rachel	Rachel	Rachel	Rachel	2	8
+#BC80BD	26	932	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	28	1478	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	30	3470	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	31	4486	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	20	4534	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	11	4655	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	21	4793	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10
+#BC80BD	18	4421	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	2	10

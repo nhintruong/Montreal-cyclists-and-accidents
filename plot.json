@@ -1,0 +1,1575 @@
+{
+ "geoms": {
+ "geom1_tallrect_MonthFacet": {
+ "geom": "tallrect",
+"classed": "geom1_tallrect_MonthFacet",
+"aes": {
+ "xmin": "month01.POSIXct",
+"xmax": "next01.POSIXct",
+"clickSelects": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"alpha":      0.5,
+"clickSelects": "month" 
+},
+"types": {
+ "xmin": "numeric",
+"xmax": "numeric",
+"clickSelects": "factor",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "PANEL" 
+],
+"subset_order": [
+ "PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom2_line_MonthFacet": {
+ "geom": "line",
+"classed": "geom2_line_MonthFacet",
+"aes": {
+ "x": "month.POSIXct",
+"y": "mean.per.day",
+"group": "location",
+"colour": "location",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"showSelected": "location",
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"group": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL",
+"group" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom3_point_MonthFacet": {
+ "geom": "point",
+"classed": "geom3_point_MonthFacet",
+"aes": {
+ "x": "month.POSIXct",
+"y": "mean.per.day",
+"colour": "location",
+"tooltip": "paste(count, \"cyclists counted at\", location, \"in\", days, \"days of\", month, sprintf(\"(mean %d cyclists/day)\", as.integer(mean.per.day)))",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        5,
+"fill": "#BEBEBE",
+"showSelected": "location",
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"tooltip": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom4_text_MonthFacet": {
+ "geom": "text",
+"classed": "geom4_text_MonthFacet",
+"aes": {
+ "x": "month.POSIXct",
+"y": "mean.per.day + 300",
+"colour": "location",
+"label": "location",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "parse": false,
+"check_overlap": false,
+"na.rm": false,
+"na.rm": false,
+"showSelected": "location",
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"label": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom5_bar_MonthFacet": {
+ "geom": "rect",
+"classed": "geom5_bar_MonthFacet",
+"aes": {
+ "x": "month.POSIXct",
+"y": "people",
+"fill": "severity",
+"showSelected1": "severity" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"colour": "transparent",
+"showSelected": "severity" 
+},
+"types": {
+ "fill": "rgb",
+"showSelected1": "factor",
+"PANEL": "factor",
+"group": "character",
+"ymin": "numeric",
+"ymax": "numeric",
+"xmin": "numeric",
+"xmax": "numeric" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom6_tallrect_MonthFacet": {
+ "geom": "tallrect",
+"classed": "geom6_tallrect_MonthFacet",
+"aes": {
+ "xmin": "month01.POSIXct",
+"xmax": "next01.POSIXct",
+"tooltip": "paste(ifelse(deaths == 0, \"\", ifelse(deaths == 1, \"1 death,\", paste(deaths, \"deaths,\"))), ifelse(people.severely.injured == 0, \"\", ifelse(people.severely.injured == 1, \"1 person severely injured,\", paste(people.severely.injured, \"people severely injured,\"))), people.slightly.injured, \"people slightly injured in\", month)",
+"clickSelects": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"alpha":      0.5,
+"clickSelects": "month" 
+},
+"types": {
+ "xmin": "numeric",
+"xmax": "numeric",
+"tooltip": "character",
+"clickSelects": "factor",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "PANEL" 
+],
+"subset_order": [
+ "PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom7_tallrect_DaysFacet": {
+ "geom": "tallrect",
+"classed": "geom7_tallrect_DaysFacet",
+"aes": {
+ "xmin": "day.of.the.month - 0.5",
+"xmax": "day.of.the.month + 0.5",
+"key": "paste(day.POSIXct)",
+"showSelected1": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"colour": "#BEBEBE",
+"showSelected": "month" 
+},
+"types": {
+ "xmin": "numeric",
+"xmax": "numeric",
+"key": "character",
+"showSelected1": "factor",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom8_line_DaysFacet": {
+ "geom": "line",
+"classed": "geom8_line_DaysFacet",
+"aes": {
+ "x": "day.of.the.month",
+"y": "count",
+"group": "location",
+"key": "location",
+"colour": "location",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"showSelected": "location",
+"showSelected2": "month",
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"group": "character",
+"key": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL",
+"group" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom9_point_DaysFacet": {
+ "geom": "point",
+"classed": "geom9_point_DaysFacet",
+"aes": {
+ "x": "day.of.the.month",
+"y": "count",
+"colour": "location",
+"key": "paste(day.of.the.month, location)",
+"tooltip": "paste(count, \"cyclists counted at\", location, \"on\", date)",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        5,
+"fill": "#BEBEBE",
+"showSelected": "location",
+"showSelected2": "month",
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"key": "character",
+"tooltip": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom10_text_DaysFacet": {
+ "geom": "text",
+"classed": "geom10_text_DaysFacet",
+"aes": {
+ "x": "15",
+"y": "23",
+"label": "month",
+"showSelected1": "month" 
+},
+"params": {
+ "parse": false,
+"check_overlap": false,
+"na.rm": false,
+"na.rm": false,
+"showSelected": "month" 
+},
+"types": {
+ "x": "numeric",
+"y": "numeric",
+"label": "factor",
+"showSelected1": "factor",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom11_text_DaysFacet": {
+ "geom": "text",
+"classed": "geom11_text_DaysFacet",
+"aes": {
+ "x": "day.of.the.month",
+"y": "count + 500",
+"colour": "location",
+"label": "location",
+"key": "location",
+"clickSelects": "location",
+"showSelected1": "location" 
+},
+"params": {
+ "parse": false,
+"check_overlap": false,
+"na.rm": false,
+"na.rm": false,
+"showSelected2": "month",
+"clickSelects": "location",
+"showSelected": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"label": "character",
+"key": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom12_point_DaysFacet": {
+ "geom": "point",
+"classed": "geom12_point_DaysFacet",
+"aes": {
+ "x": "day.of.the.month",
+"y": "accident.i",
+"key": "paste(date.str, accident.i)",
+"tooltip": "paste(ifelse(deaths == 0, \"\", ifelse(deaths == 1, \"1 death,\", paste(deaths, \"deaths,\"))), ifelse(people.severely.injured == 0, \"\", ifelse(people.severely.injured == 1, \"1 person severely injured,\", paste(people.severely.injured, \"people severely injured,\"))), people.slightly.injured, \"people slightly injured at\", ifelse(is.na(street.number), \"\", street.number), street, \"/\", cross.street, date.str, time.str)",
+"fill": "severity",
+"showSelectedlegendfill": "severity",
+"showSelected1": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        4,
+"showSelected": "month" 
+},
+"types": {
+ "fill": "rgb",
+"x": "numeric",
+"y": "numeric",
+"key": "character",
+"tooltip": "character",
+"showSelectedlegendfill": "factor",
+"showSelected1": "factor",
+"PANEL": "factor",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"showSelectedlegendfill",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"showSelectedlegendfill",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom13_tallrect_summary": {
+ "geom": "tallrect",
+"classed": "geom13_tallrect_summary",
+"aes": {
+ "xmin": "month01.POSIXct",
+"xmax": "next01.POSIXct",
+"clickSelects": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"alpha":      0.5,
+"clickSelects": "month" 
+},
+"types": {
+ "xmin": "numeric",
+"xmax": "numeric",
+"clickSelects": "factor",
+"PANEL": "integer",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [],
+"subset_order": [],
+"chunks": 1,
+"total": 1 
+},
+"geom14_segment_summary": {
+ "geom": "segment",
+"classed": "geom14_segment_summary",
+"aes": {
+ "x": "min",
+"y": "location",
+"xend": "max",
+"yend": "location",
+"colour": "location",
+"clickSelects": "location" 
+},
+"params": {
+ "lineend": "butt",
+"na.rm": false,
+"na.rm": false,
+"alpha":     0.75,
+"size":       10,
+"clickSelects": "location" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"xend": "numeric",
+"y": "integer",
+"yend": "integer",
+"clickSelects": "character",
+"PANEL": "integer",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [],
+"subset_order": [],
+"chunks": 1,
+"total": 1 
+},
+"geom15_segment_summary": {
+ "geom": "segment",
+"classed": "geom15_segment_summary",
+"aes": {
+ "x": "min",
+"y": "location",
+"xend": "max",
+"yend": "location" 
+},
+"params": {
+ "lineend": "butt",
+"na.rm": false,
+"na.rm": false,
+"colour": "#A50F15",
+"size":       10 
+},
+"types": {
+ "x": "numeric",
+"xend": "numeric",
+"y": "integer",
+"yend": "integer",
+"PANEL": "integer",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [],
+"subset_order": [],
+"chunks": 1,
+"total": 1 
+},
+"geom16_path_map": {
+ "geom": "path",
+"classed": "geom16_path_map",
+"aes": {
+ "x": "lon",
+"y": "lat",
+"tooltip": "TYPE_VOIE",
+"group": "paste(feature.i, path.i)" 
+},
+"params": {
+ "lineend": "butt",
+"linejoin": "round",
+"linemitre":        1,
+"na.rm": false,
+"na.rm": false,
+"colour": "#BEBEBE" 
+},
+"types": {
+ "x": "numeric",
+"y": "numeric",
+"tooltip": "character",
+"group": "character",
+"PANEL": "integer" 
+},
+"chunk_order": [],
+"nest_order": [
+ "group" 
+],
+"subset_order": [],
+"chunks": 1,
+"total": 1 
+},
+"geom17_point_map": {
+ "geom": "point",
+"classed": "geom17_point_map",
+"aes": {
+ "x": "lon",
+"y": "lat",
+"colour": "location",
+"size": "count",
+"key": "location",
+"clickSelects": "location",
+"showSelected1": "month" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"clickSelects": "location",
+"showSelected": "month" 
+},
+"types": {
+ "colour": "rgb",
+"size": "numeric",
+"x": "numeric",
+"y": "numeric",
+"key": "character",
+"clickSelects": "character",
+"showSelected1": "factor",
+"PANEL": "integer",
+"fill": "rgb",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1" 
+],
+"subset_order": [
+ "showSelected1" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom18_text_map": {
+ "geom": "text",
+"classed": "geom18_text_map",
+"aes": {
+ "x": "lon",
+"y": "lat",
+"label": "location",
+"clickSelects": "location" 
+},
+"params": {
+ "parse": false,
+"check_overlap": false,
+"na.rm": false,
+"na.rm": false,
+"clickSelects": "location" 
+},
+"types": {
+ "x": "numeric",
+"y": "numeric",
+"label": "character",
+"clickSelects": "character",
+"PANEL": "integer",
+"group": "character" 
+},
+"chunk_order": [],
+"nest_order": [],
+"subset_order": [],
+"chunks": 1,
+"total": 1 
+} 
+},
+"time": {
+ "variable": "month",
+"ms":     5000,
+"sequence": [ "janvier 2009", "février 2009", "mars 2009", "avril 2009", "mai 2009", "juin 2009", "juillet 2009", "août 2009", "septembre 2009", "octobre 2009", "novembre 2009", "décembre 2009", "janvier 2010", "février 2010", "mars 2010", "avril 2010", "mai 2010", "juin 2010", "juillet 2010", "août 2010", "septembre 2010", "octobre 2010", "novembre 2010", "décembre 2010", "janvier 2011", "février 2011", "mars 2011", "avril 2011", "mai 2011", "juin 2011", "juillet 2011", "août 2011", "septembre 2011", "octobre 2011", "novembre 2011", "janvier 2012", "février 2012", "mars 2012", "avril 2012", "mai 2012", "juin 2012", "juillet 2012", "août 2012", "septembre 2012", "octobre 2012", "novembre 2012", "décembre 2012", "janvier 2013", "février 2013", "mars 2013", "avril 2013", "mai 2013", "juin 2013", "juillet 2013", "août 2013", "septembre 2013", "octobre 2013", "novembre 2013", "décembre 2013", "janvier 2014", "février 2014", "mars 2014", "avril 2014", "mai 2014", "juin 2014", "juillet 2014", "août 2014", "septembre 2014", "octobre 2014", "novembre 2014", "décembre 2014" ] 
+},
+"duration": {
+ "month":     2000 
+},
+"selectors": {
+ "severity": {
+ "legend": true,
+"is.variable.value": false,
+"type": "multiple",
+"showSelected": true,
+"selected": [ "people slightly injured", "people severely injured", "deaths" ],
+"levels": [ "people slightly injured", "people severely injured", "deaths" ],
+"update": [
+ "geom5_bar_MonthFacet",
+"geom12_point_DaysFacet" 
+] 
+},
+"month": {
+ "is.variable.value": false,
+"type": "single",
+"clickSelects": true,
+"showSelected": true,
+"selected": "September 2012",
+"levels": [ "janvier 2009", "février 2009", "mars 2009", "avril 2009", "mai 2009", "juin 2009", "juillet 2009", "août 2009", "septembre 2009", "octobre 2009", "novembre 2009", "décembre 2009", "janvier 2010", "février 2010", "mars 2010", "avril 2010", "mai 2010", "juin 2010", "juillet 2010", "août 2010", "septembre 2010", "octobre 2010", "novembre 2010", "décembre 2010", "janvier 2011", "février 2011", "mars 2011", "avril 2011", "mai 2011", "juin 2011", "juillet 2011", "août 2011", "septembre 2011", "octobre 2011", "novembre 2011", "janvier 2012", "février 2012", "mars 2012", "avril 2012", "mai 2012", "juin 2012", "juillet 2012", "août 2012", "septembre 2012", "octobre 2012", "novembre 2012", "janvier 2013", "février 2013", "mars 2013", "avril 2013", "mai 2013", "juin 2013", "juillet 2013", "août 2013", "septembre 2013", "décembre 2012", "octobre 2013", "novembre 2013", "décembre 2013", "janvier 2014", "février 2014", "mars 2014", "avril 2014", "mai 2014", "juin 2014", "juillet 2014", "août 2014", "septembre 2014", "octobre 2014", "novembre 2014", "décembre 2014", "NA" ],
+"update": [
+ "geom1_tallrect_MonthFacet",
+"geom6_tallrect_MonthFacet",
+"geom7_tallrect_DaysFacet",
+"geom10_text_DaysFacet",
+"geom12_point_DaysFacet",
+"geom13_tallrect_summary",
+"geom17_point_map" 
+],
+"duration":     2000 
+},
+"location": {
+ "is.variable.value": false,
+"type": "multiple",
+"clickSelects": true,
+"showSelected": true,
+"selected": [ "Berri", "Rachel" ],
+"levels": [ "Berri", "Brébeuf", "Côte-Sainte-Catherine", "du Parc", "Maisonneuve 1", "Maisonneuve 2", "Pierre-Dupuy", "Rachel", "Saint-Urbain", "Totem_Laurier" ],
+"update": [
+ "geom2_line_MonthFacet",
+"geom3_point_MonthFacet",
+"geom4_text_MonthFacet",
+"geom8_line_DaysFacet",
+"geom9_point_DaysFacet",
+"geom11_text_DaysFacet",
+"geom14_segment_summary",
+"geom17_point_map",
+"geom18_text_map" 
+] 
+} 
+},
+"plots": {
+ "MonthFacet": {
+ "panel_margin_lines":        0,
+"legend": {},
+"strips": {
+ "right": [
+ "city-wide accidents",
+"cyclists per day" 
+],
+"top": [
+ "",
+"" 
+],
+"n": {
+ "top":        1,
+"right":        1 
+} 
+},
+"layout": {
+ "PANEL": [ "1", "2" ],
+"ROW": [ 1, 2 ],
+"COL": [ 1, 1 ],
+"facet": [ "city-wide accidents", "cyclists per day" ],
+"SCALE_X": [ 1, 1 ],
+"SCALE_Y": [ 1, 2 ],
+"AXIS_Y": [ true, true ],
+"AXIS_X": [ false, true ],
+"coord_fixed": [ false, false ],
+"width_proportion": [        1,        1 ],
+"height_proportion": [      0.5,      0.5 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ {
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+},
+{
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+} 
+],
+"y": [
+ [
+        0,
+       2,
+       4,
+       6,
+       8 
+],
+[
+        0,
+    2000,
+    4000,
+    6000 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+ 1.230743e+09,
+1.262279e+09,
+1.293815e+09,
+1.325351e+09,
+1.35693e+09,
+1.388509e+09,
+1.420045e+09 
+],
+[
+ 1.230743e+09,
+1.262279e+09,
+1.293815e+09,
+1.325351e+09,
+1.35693e+09,
+1.388509e+09,
+1.420045e+09 
+] 
+],
+"y": [
+ [
+        0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8 
+],
+[
+        0,
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": {
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+},
+"xlab": [
+ "2010",
+"2012",
+"2014" 
+],
+"xrange": [ 1.221278e+09, 1.42951e+09 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+       2,
+       4,
+       6,
+       8 
+],
+"ylab": [
+ "0",
+"2",
+"4",
+"6",
+"8" 
+],
+"yrange": [     -0.4,      8.4 ],
+"yline": false,
+"yticks": true 
+},
+"axis2": {
+ "x": {
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+},
+"xlab": [
+ "2010",
+"2012",
+"2014" 
+],
+"xrange": [ 1.221278e+09, 1.42951e+09 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+    2000,
+    4000,
+    6000 
+],
+"ylab": [
+ "0",
+"2000",
+"4000",
+"6000" 
+],
+"yrange": [ -318.8692, 6726.502 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "month",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "2010",
+"2012",
+"2014" 
+],
+"ylabs": [
+ "0",
+"2",
+"4",
+"6",
+"8",
+"2000",
+"4000",
+"6000" 
+],
+"title": "All data, select month",
+"title_size": "14.4pt",
+"options": {
+ "width":      600,
+"height":      400 
+},
+"geoms": [
+ "geom1_tallrect_MonthFacet",
+"geom2_line_MonthFacet",
+"geom3_point_MonthFacet",
+"geom4_text_MonthFacet",
+"geom5_bar_MonthFacet",
+"geom6_tallrect_MonthFacet" 
+] 
+},
+"DaysFacet": {
+ "panel_margin_lines":        0,
+"legend": {
+ "severity": {
+ "guide": "legend",
+"geoms": "point",
+"title": "severity",
+"class": "severity",
+"selector": "severity",
+"is_discrete": true,
+"legend_type": "fill",
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointfill": "#A50F15",
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5,
+"label": "deaths" 
+},
+{
+ "pointfill": "#FB6A4A",
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5,
+"label": "people severely injured" 
+},
+{
+ "pointfill": "#FEE0D2",
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5,
+"label": "people slightly injured" 
+} 
+] 
+} 
+},
+"strips": {
+ "right": [
+ "city-wide accidents",
+"cyclists per day" 
+],
+"top": [
+ "",
+"" 
+],
+"n": {
+ "top":        1,
+"right":        1 
+} 
+},
+"layout": {
+ "PANEL": [ "1", "2" ],
+"ROW": [ 1, 2 ],
+"COL": [ 1, 1 ],
+"facet": [ "city-wide accidents", "cyclists per day" ],
+"SCALE_X": [ 1, 1 ],
+"SCALE_Y": [ 1, 2 ],
+"AXIS_Y": [ true, true ],
+"AXIS_X": [ false, true ],
+"coord_fixed": [ false, false ],
+"width_proportion": [        1,        1 ],
+"height_proportion": [      0.5,      0.5 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        1,
+      10,
+      20,
+      30 
+],
+[
+        1,
+      10,
+      20,
+      30 
+] 
+],
+"y": [
+ [
+        0,
+       5,
+      10,
+      15,
+      20,
+      25 
+],
+[
+        0,
+    2500,
+    5000,
+    7500,
+   10000 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        1,
+     5.5,
+      10,
+      15,
+      20,
+      25,
+      30 
+],
+[
+        1,
+     5.5,
+      10,
+      15,
+      20,
+      25,
+      30 
+] 
+],
+"y": [
+ [
+        0,
+     2.5,
+       5,
+     7.5,
+      10,
+    12.5,
+      15,
+    17.5,
+      20,
+    22.5,
+      25 
+],
+[
+        0,
+    1250,
+    2500,
+    3750,
+    5000,
+    6250,
+    7500,
+    8750,
+   10000 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+        1,
+      10,
+      20,
+      30 
+],
+"xlab": [
+ "1",
+"10",
+"20",
+"30" 
+],
+"xrange": [    -1.05,    33.05 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+       5,
+      10,
+      15,
+      20,
+      25 
+],
+"ylab": [
+ "0",
+"5",
+"10",
+"15",
+"20",
+"25" 
+],
+"yrange": [     -0.2,     26.2 ],
+"yline": false,
+"yticks": true 
+},
+"axis2": {
+ "x": [
+        1,
+      10,
+      20,
+      30 
+],
+"xlab": [
+ "1",
+"10",
+"20",
+"30" 
+],
+"xrange": [    -1.05,    33.05 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+    2500,
+    5000,
+    7500,
+   10000 
+],
+"ylab": [
+ "0",
+"2500",
+"5000",
+"7500",
+"10000" 
+],
+"yrange": [   -485.7,  10221.7 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "day of the month",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "1",
+"10",
+"20",
+"30" 
+],
+"ylabs": [
+ "0",
+"5",
+"10",
+"15",
+"20",
+"25",
+"2500",
+"5000",
+"7500",
+"10000" 
+],
+"title": "Selected month (weekends in grey)",
+"title_size": "14.4pt",
+"options": {
+ "width":      400,
+"height":      400 
+},
+"geoms": [
+ "geom7_tallrect_DaysFacet",
+"geom8_line_DaysFacet",
+"geom9_point_DaysFacet",
+"geom10_text_DaysFacet",
+"geom11_text_DaysFacet",
+"geom12_point_DaysFacet" 
+] 
+},
+"summary": {
+ "panel_margin_lines":     0.27,
+"legend": {},
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ {
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+} 
+],
+"y": [
+ [
+ 1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+ 1.230743e+09,
+1.262279e+09,
+1.293815e+09,
+1.325351e+09,
+1.35693e+09,
+1.388509e+09,
+1.420045e+09 
+] 
+],
+"y": [
+ [] 
+] 
+} 
+},
+"axis1": {
+ "x": {
+ "2010": 1.262279e+09,
+"2012": 1.325351e+09,
+"2014": 1.388509e+09 
+},
+"xlab": [
+ "2010",
+"2012",
+"2014" 
+],
+"xrange": [ 1.221278e+09, 1.42951e+09 ],
+"xline": false,
+"xticks": true,
+"y": [
+ 1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11 
+],
+"ylab": [
+ "accidents",
+"Berri",
+"Brébeuf",
+"Côte-Sainte-Catherine",
+"du Parc",
+"Maisonneuve 1",
+"Maisonneuve 2",
+"Pierre-Dupuy",
+"Rachel",
+"Saint-Urbain",
+"Totem_Laurier" 
+],
+"yrange": [      0.4,     11.6 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "range of dates in data",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "data type",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "2010",
+"2012",
+"2014" 
+],
+"ylabs": [
+ "accidents",
+"Berri",
+"Brébeuf",
+"Côte-Sainte-Catherine",
+"du Parc",
+"Maisonneuve 1",
+"Maisonneuve 2",
+"Pierre-Dupuy",
+"Rachel",
+"Saint-Urbain",
+"Totem_Laurier" 
+],
+"title_size": "14.4pt",
+"options": {
+ "width":      400,
+"height":      400 
+},
+"geoms": [
+ "geom13_tallrect_summary",
+"geom14_segment_summary",
+"geom15_segment_summary" 
+] 
+},
+"map": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "count": {
+ "guide": "legend",
+"geoms": "point",
+"title": "count",
+"class": "count",
+"selector": null,
+"is_discrete": false,
+"legend_type": "size",
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointsize": 18.02309,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointstroke":      0.5,
+"label": "150000" 
+},
+{
+ "pointsize": 15.08256,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointstroke":      0.5,
+"label": "100000" 
+},
+{
+ "pointsize": 11.25026,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointstroke":      0.5,
+"label": "50000" 
+} 
+] 
+} 
+},
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ true ],
+"width_proportion": [        1 ],
+"height_proportion": [ 0.4849888 ] 
+},
+"panel_background": [],
+"panel_border": [],
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+    -73.6,
+  -73.58,
+  -73.56 
+] 
+],
+"y": [
+ [
+     45.5,
+   45.51,
+   45.52,
+   45.53 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+   -73.61,
+   -73.6,
+  -73.59,
+  -73.58,
+  -73.57,
+  -73.56,
+  -73.55 
+] 
+],
+"y": [
+ [
+     45.5,
+  45.505,
+   45.51,
+  45.515,
+   45.52,
+  45.525,
+   45.53 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+    -73.6,
+  -73.58,
+  -73.56 
+],
+"xrange": [  -73.611, -73.54138 ],
+"xline": false,
+"xticks": false,
+"y": [
+     45.5,
+   45.51,
+   45.52,
+   45.53 
+],
+"yrange": [ 45.49813, 45.53189 ],
+"yline": false,
+"yticks": false 
+},
+"xtitle": "",
+"strip_text_xsize": "12pt",
+"xsize": "pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "",
+"strip_text_ysize": "12pt",
+"ysize": "pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [],
+"ylabs": [],
+"title_size": "14.4pt",
+"options": {
+ "width":      600,
+"height":      400 
+},
+"geoms": [
+ "geom16_path_map",
+"geom17_point_map",
+"geom18_text_map" 
+] 
+} 
+},
+"title": "Montreal cyclists and accidents, 2009-2014",
+"source": "https://github.com/tdhock/montreal-velos/blob/2e4878295cf5886061b781e5eba018d275bdfd74/figure-timeseries.R" 
+}
